@@ -16,14 +16,12 @@ El estudiante diseña e implementa el layout de un dashboard web responsivo comb
 
 ## Capturas de pantalla
 
-A continuación, se deben agregar capturas de pantalla del dashboard funcionando a las siguientes resoluciones:
+A continuación se muestran capturas de pantalla del dashboard funcionando a las siguientes resoluciones:
 
 - **1280px de ancho**
+
+![Dashboard a 1280px](img/captura1280.png)
+
 - **768px de ancho**
 
-Guarda las imágenes en una carpeta llamada `screenshots` y agrégalas aquí usando la siguiente sintaxis:
-
-```
-![Dashboard a 1280px](img/captura1280.png)
 ![Dashboard a 768px](img/captura768.png)
-```
